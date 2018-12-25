@@ -13,3 +13,4 @@ To exit vim
 or use git commit -m "message" 
 
 #merge 
+# git push
