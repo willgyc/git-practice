@@ -14,3 +14,4 @@ or use git commit -m "message"
 
 #merge 
 # git push
+# git pull 
