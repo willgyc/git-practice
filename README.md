@@ -11,3 +11,5 @@ To exit vim
 -enter Esc -':wq' - Enter
 
 or use git commit -m "message" 
+
+#merge 
